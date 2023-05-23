@@ -1,2 +1,2 @@
 # worker-timeout
-A replacement for setTimeout() which works in unfocused windows
+setTimeout的webworker实现。避免浏览器tab失去焦点后延时不准
